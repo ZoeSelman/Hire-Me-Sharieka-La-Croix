@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://ak5.picdn.net/shutterstock/videos/27458545/thumb/1.jpg");
+}
+img{
+    height: 300px;
+    margin-left: 30%;
+    margin-right: 50%;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color: orange;
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+    color: orange;
+}
+h3{
+   font-family: 'Permanent Marker', cursive;
+   color: orange;
+}
+li{
+   color:orange; 
+}
+p{
+  color: orange;
+}
+
